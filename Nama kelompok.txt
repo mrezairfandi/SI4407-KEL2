@@ -1,9 +1,13 @@
 Nama Kelompok :
 1. Muhammad Reza Irfandi
 2. Raif Fawwazdzaky
+<<<<<<< HEAD
 3. Rizky Eka Saputra 
 Diujung malam menuju pagi yang dingin
+=======
+Tak terasa gelap pun jatuh
+3. Rizky Eka Saputra
+>>>>>>> ca76c732a3e7bcfa0c586adedcbe356bd4a02679
 4. Rodia Andini
 5. Rahel Yohana Simangunsong
 6. Ramadani
- 

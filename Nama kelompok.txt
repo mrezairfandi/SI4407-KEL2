@@ -1,9 +1,15 @@
 Nama Kelompok :
 1. Muhammad Reza Irfandi
 2. Raif Fawwazdzaky
+Tak terasa gelap pun jatuh
 3. Rizky Eka Saputra
 4. Rodia Andini
+Hanya ada sedikit bintang malam ini
 5. Rahel Yohana Simangunsong
+<<<<<<< HEAD
 Mungkin karena kau sedang cantik-cantiknya
 6. Ramadani
  
+=======
+6. Ramadani
+>>>>>>> ef3ab2d0aeba2dcc811f1c94bcf7bf895e5fb8fd

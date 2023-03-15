@@ -1,10 +1,17 @@
 Nama Kelompok :
 1. Muhammad Reza Irfandi
 2. Raif Fawwazdzaky
+<<<<<<< HEAD
+3. Rizky Eka Saputra 
+Diujung malam menuju pagi yang dingin
+=======
 Tak terasa gelap pun jatuh
 3. Rizky Eka Saputra
+>>>>>>> ca76c732a3e7bcfa0c586adedcbe356bd4a02679
 4. Rodia Andini
+Hanya ada sedikit bintang malam ini
 5. Rahel Yohana Simangunsong
+<<<<<<< HEAD
 <<<<<<< HEAD
 6. Ramadani
 Lalu mataku merasa malu
@@ -12,3 +19,11 @@ Lalu mataku merasa malu
 =======
 6. Ramadani
 >>>>>>> ca76c732a3e7bcfa0c586adedcbe356bd4a02679
+=======
+Mungkin karena kau sedang cantik-cantiknya
+6. Ramadani
+ 
+=======
+6. Ramadani
+>>>>>>> ef3ab2d0aeba2dcc811f1c94bcf7bf895e5fb8fd
+>>>>>>> a8ea0378e24c37b776298f4d6cdbb68efb8c53ae
